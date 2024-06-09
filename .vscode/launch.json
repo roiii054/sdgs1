@@ -10,6 +10,7 @@
             "name": "對 localhost 啟動 Chrome",
             "url": "http://localhost:8080",
             "webRoot": "${workspaceFolder}"
+            "file": "${workspaceFolder}/index.html"
         }
     ]
 }
